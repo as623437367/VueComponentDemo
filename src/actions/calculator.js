@@ -1,0 +1,6 @@
+const SET_DATA = 'SET_DATA', CHANGE_METHOD = 'CHANGE_METHOD';
+
+export {
+  SET_DATA,
+  CHANGE_METHOD
+}
